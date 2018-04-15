@@ -1,4 +1,4 @@
-//deleteing a node by value in a linked list.
+//Finding the lenght of a  linked list using iteration.
 #include<stdio.h>
 #include<stdlib.h>
 struct node
